@@ -1,8 +1,4 @@
 '''
-Если используете Linux:
-    pip install gtts
-    pip install translators
-
 Если используете Termux:
     pip install wheel
     pkg install libxml2
