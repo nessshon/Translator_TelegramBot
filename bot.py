@@ -1,12 +1,3 @@
-'''
-Если используете Termux:
-    pip install wheel
-    pkg install libxml2
-    pkg install libxslt
-    pip intsall gtts
-    pip install translators
-'''
-
 # необходимые импорты
 import os
 import logging
